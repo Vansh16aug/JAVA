@@ -1,6 +1,6 @@
 package basics;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class multiplyTwoNum {
     public static int multiply(int a,int b){
@@ -12,5 +12,6 @@ public class multiplyTwoNum {
         int b=sc.nextInt();
         int ans=multiply(a,b);
         System.out.println(ans);
+        sc.close();
     }
 }
