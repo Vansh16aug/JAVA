@@ -1,3 +1,4 @@
+package basics.Learning;
 import java.util.*;
 
 class Conditionals{

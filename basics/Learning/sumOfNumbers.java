@@ -1,4 +1,4 @@
-package basics;
+package basics.Learning;
 
 import java.util.*;
 
