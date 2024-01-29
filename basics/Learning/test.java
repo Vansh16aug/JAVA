@@ -17,5 +17,9 @@ public class test {
 //        if(y){
 //            System.out.println("4");
 //        }
-//    }
+    }
 }
+//if we declare int x =1 then no
+//
+//java: incompatible types: int cannot be converted to boolean
+
