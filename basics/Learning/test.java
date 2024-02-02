@@ -17,11 +17,11 @@ public class test {
 //        if(y){
 //            System.out.println("4");
 //        }
-        int a=15;
-        int b=4;
-        if(a>b)
-            System.out.println("hello");
-        a=a+b;
+//        int a=15;
+//        int b=4;
+//        if(a>b)
+//            System.out.println("hello");
+//        a=a+b;
     }
 }
 //if we declare int x =1 then no
